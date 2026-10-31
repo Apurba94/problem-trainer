@@ -14,6 +14,11 @@ tracks your skill by topic, decides what to review and when, and tells you what 
 
 The bank starts empty apart from what you add. `--demo` opens a temporary database with fictional sample problems.
 
+## Download
+
+Windows: get the `.exe` from [Releases](https://github.com/Apurba94/problem-trainer/releases/latest) and double-click it. No installation or Python is needed.
+Windows may show a SmartScreen warning the first time because the program is not code-signed: choose *More info*, then *Run anyway*.
+
 ## From source
 
 ```bash
